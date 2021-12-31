@@ -7,6 +7,7 @@ DisturbanceTorques.m - calculates total disturbance torques given a quaternion, 
 ECEF_ECI_Matrix - calculates DCM from ECI to ECEF frames
 EulerMatrix - calculates 3-2-1 Euler transformation
 julian_date - calculates Julian date for use in calculating ECEF frame
+rv_vec_HST - CSV containing position and velocity vectors in a given timespan (DO NOT CHANGE)
 readCSV - processing rv_vec_HST.csv
 
 Sorry for the mess!
